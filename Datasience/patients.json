@@ -1,0 +1,12 @@
+[
+    {"patient_id": 1, "age": 45, "gender": "F", "is_smoker": false},
+    {"patient_id": 2, "age": 50, "gender": "M", "is_smoker": true},
+    {"patient_id": 3, "age": null, "gender": "F", "is_smoker": false},
+    {"patient_id": 4, "age": 65, "gender": "M", "is_smoker": true},
+    {"patient_id": 5, "age": 35, "gender": "F", "is_smoker": false},
+    {"patient_id": 6, "age": 40, "gender": "M", "is_smoker": false},
+    {"patient_id": 7, "age": 55, "gender": "F", "is_smoker": true},
+    {"patient_id": 8, "age": 60, "gender": "M", "is_smoker": false},
+    {"patient_id": 9, "age": 42, "gender": "F", "is_smoker": false},
+    {"patient_id": 10, "age": 70, "gender": "M", "is_smoker": true}
+]

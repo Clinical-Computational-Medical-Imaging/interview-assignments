@@ -1,0 +1,12 @@
+[
+    {"visit_id": 1, "patient_id": 1, "visit_date": "2023-01-15", "department": "Cardiology", "has_diabetes": false},
+    {"visit_id": 2, "patient_id": 2, "visit_date": "2023-02-15", "department": "Endocrinology", "has_diabetes": true},
+    {"visit_id": 3, "patient_id": 3, "visit_date": "2023-03-15", "department": "Neurology", "has_diabetes": false},
+    {"visit_id": 4, "patient_id": 4, "visit_date": "2023-04-15", "department": "Cardiology", "has_diabetes": true},
+    {"visit_id": 5, "patient_id": 5, "visit_date": "2023-05-15", "department": "General Medicine", "has_diabetes": false},
+    {"visit_id": 6, "patient_id": 6, "visit_date": "2023-06-15", "department": "Endocrinology", "has_diabetes": false},
+    {"visit_id": 7, "patient_id": 7, "visit_date": "2023-07-15", "department": "Cardiology", "has_diabetes": true},
+    {"visit_id": 8, "patient_id": 8, "visit_date": "2023-08-15", "department": "Neurology", "has_diabetes": true},
+    {"visit_id": 9, "patient_id": 9, "visit_date": "2023-09-15", "department": "General Medicine", "has_diabetes": false},
+    {"visit_id": 10, "patient_id": 10, "visit_date": "2023-10-15", "department": "Cardiology", "has_diabetes": true}
+]

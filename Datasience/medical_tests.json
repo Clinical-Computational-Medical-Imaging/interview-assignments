@@ -1,0 +1,12 @@
+[
+    {"test_id": 1, "patient_id": 1, "bmi": 22.5, "blood_pressure": 120, "cholesterol": 180, "glucose_level": 85, "test_date": "2023-01-01"},
+    {"test_id": 2, "patient_id": 2, "bmi": 30.2, "blood_pressure": 140, "cholesterol": 220, "glucose_level": 110, "test_date": "2023-02-01"},
+    {"test_id": 3, "patient_id": 3, "bmi": 27.8, "blood_pressure": null, "cholesterol": 200, "glucose_level": 95, "test_date": "2023-03-01"},
+    {"test_id": 4, "patient_id": 4, "bmi": 31.1, "blood_pressure": 160, "cholesterol": 250, "glucose_level": 130, "test_date": "2023-04-01"},
+    {"test_id": 5, "patient_id": 5, "bmi": 45.0, "blood_pressure": 110, "cholesterol": 300, "glucose_level": 140, "test_date": "2023-05-01"},
+    {"test_id": 6, "patient_id": 6, "bmi": 25.0, "blood_pressure": 125, "cholesterol": null, "glucose_level": 100, "test_date": "2023-06-01"},
+    {"test_id": 7, "patient_id": 7, "bmi": 35.2, "blood_pressure": 150, "cholesterol": 280, "glucose_level": 120, "test_date": "2023-07-01"},
+    {"test_id": 8, "patient_id": 8, "bmi": 28.5, "blood_pressure": 130, "cholesterol": 240, "glucose_level": 105, "test_date": "2023-08-01"},
+    {"test_id": 9, "patient_id": 9, "bmi": 26.0, "blood_pressure": 135, "cholesterol": null, "glucose_level": 98, "test_date": "2023-09-01"},
+    {"test_id": 10, "patient_id": 10, "bmi": 22.0, "blood_pressure": 145, "cholesterol": 190, "glucose_level": 150, "test_date": "2023-10-01"}
+]
