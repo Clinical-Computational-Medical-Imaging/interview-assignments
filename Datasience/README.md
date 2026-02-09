@@ -6,7 +6,8 @@ Your task is to build a classifier to predict if a patient has diabetes.
 1. We recommend using Python to solve the task, but you may also opt for R or any other suitable language.
 2. Kindly provide your source code, and if you choose Python, utilizing a Jupyter notebook is preferable.
 3. Your presentation should showcase the results, findings, and solutions. Note that PowerPoint presentations are not required; a well-structured notebook will suffice.
-4. This task intentionally offers some flexibility and can be approached as intricately as you wish. However, we understand your time constraints, and we don't expect you to dedicate more than 2 hours to the solution. Feel free to focus on specific aspects, and please indicate at the beginning of your solution presentation which parts you have chosen to address.
+4. You are of course allowed to use any LLM of your choice to help solving the exercises. What matters is your understanding of what is happening and why.
+5. This task intentionally offers some flexibility and can be approached as intricately as you wish. However, we understand your time constraints, and we don't expect you to dedicate more than 2 hours to the solution. Feel free to focus on specific aspects, and please indicate at the beginning of your solution presentation which parts you have chosen to address.
  
 ## Guiding questions:
 1. Begin by exploring the data. Are there any general remarks or questions that come to mind regarding the dataset?
